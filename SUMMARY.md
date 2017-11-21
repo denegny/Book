@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-* [Первый раздел](chapter1.md)
-* [Новый раздел](novii-razdel.md)
+* [Вступление](README.md)
+* [Обрабока исключений в Эликсир](chapter1.md)
 
